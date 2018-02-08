@@ -5,6 +5,6 @@ public class Ta {
     int i = 123;
 
     public static void main(String[] args) {
-
+int a ;
     }
 }
